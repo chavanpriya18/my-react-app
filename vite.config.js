@@ -5,5 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   //  base: '/store-rating-platform/',
+  base: "/my-react-app/",
   plugins: [react(),tailwindcss()],
 })
