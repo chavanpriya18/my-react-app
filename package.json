@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://chavanpriya18.github.io/Store-Rating-Platform",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
